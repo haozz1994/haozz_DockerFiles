@@ -6,4 +6,3 @@ WORKDIR $MYPATH
 
 CMD ["ls","-a"]
 
-##  
