@@ -1,0 +1,8 @@
+FROM centos
+MAINTAINER haozz<haozz0611@163.com>
+
+ENV MYPATH /usr/local
+WORKDIR $MYPATH
+
+CMD ["ls","-a"]
+
