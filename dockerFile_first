@@ -5,5 +5,3 @@ ENV MYPATH /usr/local
 WORKDIR $MYPATH
 
 CMD ["ls","-a"]
-
-##
